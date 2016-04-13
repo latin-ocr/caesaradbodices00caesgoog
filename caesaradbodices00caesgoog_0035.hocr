@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caesaradbodices00caesgoog_0035.png"; bbox 0 0 3111 5147; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 92 1646 2351 1861">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 92 1646 2351 1861">
+     <span class='ocr_line' id='line_1_1' title="bbox 92 1646 2351 1861; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 92 1846 93 1861; x_wconf 15' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_2' title='bbox 242 1697 401 1854; x_wconf 80' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 490 1646 1130 1855; x_wconf 76' lang='lat' dir='ltr'><strong>JU&#39;LII</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1248 1695 2351 1859; x_wconf 78' lang='lat' dir='ltr'><strong>CAESARIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 786 2065 1798 2132">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 786 2065 1798 2132">
+     <span class='ocr_line' id='line_1_2' title="bbox 786 2065 1798 2132; baseline 0.001 -1"><span class='ocrx_word' id='word_1_5' title='bbox 786 2067 917 2131; x_wconf 90' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 969 2066 1293 2132; x_wconf 89' lang='lat' dir='ltr'><strong>BELLO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1318 2090 1324 2095; x_wconf 90' lang='lat'>·</span> <span class='ocrx_word' id='word_1_8' title='bbox 1350 2065 1798 2132; x_wconf 88' lang='lat' dir='ltr'>GALLICO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 491 2343 2108 2456">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 491 2343 2108 2456">
+     <span class='ocr_line' id='line_1_3' title="bbox 491 2343 2108 2456; baseline -0.005 0"><span class='ocrx_word' id='word_1_9' title='bbox 491 2343 2108 2456; x_wconf 87' lang='lat' dir='ltr'>COMMENTARIORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 983 2639 1594 2710">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 983 2639 1594 2710">
+     <span class='ocr_line' id='line_1_4' title="bbox 983 2639 1594 2710; baseline -0.005 0"><span class='ocrx_word' id='word_1_10' title='bbox 983 2639 1293 2710; x_wconf 89' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_11' title='bbox 1358 2639 1594 2710; x_wconf 86' lang='lat' dir='ltr'><strong>VIII.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
